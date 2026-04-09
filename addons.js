@@ -8,8 +8,8 @@ const addonsConfig = {
             description: "Wydajny bloker reklam i elementów śledzących",
             icon: "https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png",
             browsers: {
-                firefox: "https://addons.mozilla.org/pl/firefox/addon/ublock-origin-lite-proxy/",
-                edge: "https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn",
+                firefox: "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/",
+                edge: "https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak",
                 chrome: "https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh"
             }
         },
