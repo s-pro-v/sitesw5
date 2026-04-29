@@ -81,7 +81,17 @@ const addonsConfig = {
             browsers: {
                 chrome: "https://chromewebstore.google.com/detail/moja-strona-startowa-zak%C5%82/kadencjogjklfnjkomahdhmmencknabl"
             }
+        },
+        {
+            name: "LinkVideo",
+            description: "Linki steam",
+            icon: "https://lh3.googleusercontent.com/Nkq1gJcgopBBFH17uCt81NIJpUi85vrj7Q69r1eI16ZijrFP4TQHpAdTWLSDHklyre8zXL8mthOrnfwkLBFoDAScPQ=s60",
+            browsers: {
+                chrome: "https://chromewebstore.google.com/detail/przechwytywanie-adres%C3%B3w-w/fgdpldbeojbiilkaegoibbgegcgcaomk"
+
+            }
         }
+
     ]
 };
 
@@ -109,6 +119,5 @@ const addonsUtils = {
 
 // Make available globally
 window.addonsConfig = addonsConfig;
-window.addonsUtils = addonsUtils; 
-
+window.addonsUtils = addonsUtils;
 
